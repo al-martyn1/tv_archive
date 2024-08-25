@@ -1,0 +1,10 @@
+Sergio Sigala's TVision - http://www.sigala.it/sergio/tvision/index.html
+                          http://www.sigala.it/sergio/tvision/
+   doc - http://www.sigala.it/sergio/tvision/html/index.html
+   resources - http://www.sigala.it/sergio/tvision/resources.html
+   extra - http://www.sigala.it/sergio/tvision/external.html
+
+
+sourceforge - https://tvision.sourceforge.net/
+   https://sourceforge.net/projects/tvision/files/DOS_Win32/2.0.3/tv203s.zip/download?use_mirror=phoenixnap
+   https://sourceforge.net/projects/tvision/files/DOS_Win32/2.0.2%20BC%2B%2B%20and%20DOS%20fix%201/tv202-1s.zip/download?use_mirror=master
