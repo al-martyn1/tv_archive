@@ -8,3 +8,8 @@ Sergio Sigala's TVision - http://www.sigala.it/sergio/tvision/index.html
 sourceforge - https://tvision.sourceforge.net/
    https://sourceforge.net/projects/tvision/files/DOS_Win32/2.0.3/tv203s.zip/download?use_mirror=phoenixnap
    https://sourceforge.net/projects/tvision/files/DOS_Win32/2.0.2%20BC%2B%2B%20and%20DOS%20fix%201/tv202-1s.zip/download?use_mirror=master
+
+
+CVS2GIT
+   https://stackoverflow.com/questions/20869710/migrate-from-cvs-to-git-without-losing-history
+   https://github.com/mhagger/cvs2svn
