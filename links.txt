@@ -13,3 +13,14 @@ sourceforge - https://tvision.sourceforge.net/
 CVS2GIT
    https://stackoverflow.com/questions/20869710/migrate-from-cvs-to-git-without-losing-history
    https://github.com/mhagger/cvs2svn
+
+Импорт в GIT в CVS - https://git-scm.com/docs/git-cvsimport
+
+Установка/Настройка WSL
+  
+https://learn.microsoft.com/ru-ru/windows/wsl/install
+https://learn.microsoft.com/ru-ru/windows/wsl/troubleshooting
+https://learn.microsoft.com/ru-ru/windows/wsl/setup/environment
+https://learn.microsoft.com/ru-ru/windows/wsl/tutorials/wsl-vscode
+https://learn.microsoft.com/ru-ru/windows/wsl/tutorials/wsl-git
+
