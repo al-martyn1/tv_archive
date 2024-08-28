@@ -14,13 +14,26 @@ CVS2GIT
    https://stackoverflow.com/questions/20869710/migrate-from-cvs-to-git-without-losing-history
    https://github.com/mhagger/cvs2svn
 
-Импорт в GIT в CVS - https://git-scm.com/docs/git-cvsimport
+РРјРїРѕСЂС‚ РІ GIT РІ CVS - https://git-scm.com/docs/git-cvsimport
 
-Установка/Настройка WSL
+РЈСЃС‚Р°РЅРѕРІРєР°/РќР°СЃС‚СЂРѕР№РєР° WSL
   
 https://learn.microsoft.com/ru-ru/windows/wsl/install
 https://learn.microsoft.com/ru-ru/windows/wsl/troubleshooting
 https://learn.microsoft.com/ru-ru/windows/wsl/setup/environment
 https://learn.microsoft.com/ru-ru/windows/wsl/tutorials/wsl-vscode
 https://learn.microsoft.com/ru-ru/windows/wsl/tutorials/wsl-git
+
+
+РЈСЃС‚Р°РЅРѕРІРёС‚СЊ git-cvsimport
+sudo apt-get install git-cvs
+
+sudo apt-get install rsh-client
+
+export CVSROOT=:pserver:username@cvs.company.com:2401/opt/cvs/data
+export CVSROOT=:local:/mnt/f/_github/tv_archive/rhtvision_2.2.1-4/tvision
+
+https://tvision.cvs.sourceforge.net/
+  export CVSROOT=:pserver:anonymous@a.cvs.sourceforge.net:/cvsroot/tvision
+
 
